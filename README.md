@@ -14,6 +14,7 @@ Our idea is to develop auto complete in Tamil while type. When try to type anyth
 This NIRAPPI.zip file cotains two folders.
 
 1.The one named as NIRAPPI-1 is model of our project.
+
 	-Used Technologies: 
 		-JAVA SCRIPT.
 		-Run "index.html" file.(open "index.html" file in any broswer).
@@ -21,8 +22,9 @@ This NIRAPPI.zip file cotains two folders.
 		(ex:வருகிறது,மக்களின்).
 
 2.The one named as NIRAPPI-2 is exemplary model which is not completed yet.
+
 	-Used Technologies: 
-		-JAVA, SPRING BOOT framework for webservice, JAVA SCRIPT(html,ajax) for front-end.	
+	-	JAVA, SPRING BOOT framework for webservice, JAVA SCRIPT(html,ajax) for front-end.	
 	
 	-Requirements:
 		-Any one of JAVA IDE(preferable ECLIPSE).
@@ -33,5 +35,6 @@ This NIRAPPI.zip file cotains two folders.
 		(ex:எழு,படி,மொழி).
 
 Future Enhancement:
+
 	-Fix all the issues we have left out.
 	-Develop our application from word level to sentence level. Auto complete for full sentence.
